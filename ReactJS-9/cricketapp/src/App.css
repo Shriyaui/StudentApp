@@ -1,0 +1,20 @@
+.App {
+  min-height: 100vh;
+  background-color: #ecf0f1;
+}
+
+/* Toggle button hover effect */
+button:hover {
+  opacity: 0.9;
+  transform: scale(1.02);
+}
+
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+}
